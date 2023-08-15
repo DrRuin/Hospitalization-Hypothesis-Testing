@@ -23,6 +23,6 @@ The dataset (`apollo_data.csv`) includes anonymized COVID-19 hospital patients' 
 The project involves data exploration, statistical testing, and visualizations to extract meaningful insights. The approach emphasizes not only the final results but also the entire thought process and code structure.
 
 
-### Pylint Rating: `8.5`
+### Pylint Score: `8.5`
 
 Jupyter Notebook - [Highly Recommend Reading this](https://nbviewer.org/github/DrRuin/Hospitalization-Hypothesis-Testing/blob/main/Hospitalization%20Hypothesis%20Testing.ipynb)
