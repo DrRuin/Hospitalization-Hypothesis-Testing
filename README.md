@@ -24,3 +24,5 @@ The project involves data exploration, statistical testing, and visualizations t
 
 
 ### Pylint Rating: `8.5`
+
+Jupyter Notebook - [Highly Recommend Reading this](https://nbviewer.org/github/DrRuin/Hospitalization-Hypothesis-Testing/blob/main/Hospitalization%20Hypothesis%20Testing.ipynb)
